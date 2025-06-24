@@ -29,7 +29,7 @@ public class LogicaClasificacion {
     /**
      
      *
-     * @param expresion Cadena con símbolos.
+     * @param expresion Cadena con símbolos
      * @return true si está balanceada, false en caso contrario.
      *
      *         Ejemplo:
