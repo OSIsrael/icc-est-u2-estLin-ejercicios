@@ -27,7 +27,7 @@ public class LogicaClasificacion {
     }
 
     /**
-     * Verifica si los símbolos de paréntesis, corchetes y llaves están bien
+     * Verifica si los símbolos de paréntesis, corchetes y llaves están bie
      * balanceados.
      *
      * @param expresion Cadena con símbolos.
